@@ -37,6 +37,15 @@ Aquí puedes ver algunos de mis trabajos profesionales desplegados en producció
 </a>
 ---
 
+### 🚧 Proyectos en Desarrollo / Próximamente
+
+#### 3. Sistema de Gestión para Guardería ("Pequeños Exploradores")
+* **Descripción:** Aplicación web integral con sistema de autenticación (login) y panel de control para la administración y gestión de una guardería.
+* **Stack:** TypeScript, React, Vite, Tailwind CSS, Convex (Base de datos)
+* **Despliegue:** Cloudflare (Próximamente / En producción)
+* **Estado:** 🟡 En desarrollo activo
+  <img src="assets/PequenosExploradores.png" alt="Vista previa de Pequeños Exploradores" width="100%" />
+
 ### 📫 ¿Cómo contactarme?
 
 * [LinkedIn](https://www.linkedin.com/in/karen-nicole-brite/)
