@@ -6,10 +6,10 @@
 
 ---
 
-### 🛠️ Stack Tecnológico          
+### 🛠️ Stack Tecnológico
 
-* **Frontend:** React, Vite, JavaScript, HTML5, CSS3, Tailwind CSS, Bootstrap
-* **Backend:** Python, Django
+* **Frontend:** TypeScript, React, Vite, JavaScript, HTML5, CSS3, Tailwind CSS, Bootstrap
+* **Backend & Bases de Datos:** Python, Django, Convex
 * **Herramientas & Despliegue:** Git, GitHub, Cloudflare
 
 ---
