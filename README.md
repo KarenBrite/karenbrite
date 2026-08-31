@@ -23,13 +23,18 @@ Aquí puedes ver algunos de mis trabajos profesionales desplegados en producció
 * **Stack:** HTML, CSS, JavaScript, Tailwind CSS
 * **Despliegue:** Cloudflare
 * **Enlace:** [Visitar sitio web](https://www.grmontajes.com.ar/)
+<a href="https://www.grmontajes.com.ar/">
+  <img src="assets/GRMontajes.png" alt="Vista previa de GR Montajes" width="100%" />
+</a>
 
 #### 2. MOCatering
 * **Descripción:** Aplicación web moderna e interactiva para la gestión y presentación de servicios de catering.
 * **Stack:** React, Vite, Tailwind CSS
 * **Despliegue:** Cloudflare
 * **Enlace:** [Visitar sitio web](https://www.mocatering.com.ar/)
-
+<a href="https://www.mocatering.com.ar/">
+  <img src="assets/MOCatering.png" alt="Vista previa de MO Catering" width="100%" />
+</a>
 ---
 
 ### 📫 ¿Cómo contactarme?
